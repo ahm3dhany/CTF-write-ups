@@ -28,9 +28,9 @@
 
 It is worth mentioning that this vulnerability is considered one of the 2013 Top 10 List:
 
-
 > #### Vulnerability: A7-Missing Function Level Access Control:
 > Most web applications verify function level access rights before making that functionality visible in the UI. However, applications need to perform the same access control checks on the server when each function is accessed. If requests are not verified, attackers will be able to forge requests in order to access functionality without proper authorization.
 
-### The flag: **"cannothackmelol"**
+### The flag: 
+`cannothackmelol`
 
