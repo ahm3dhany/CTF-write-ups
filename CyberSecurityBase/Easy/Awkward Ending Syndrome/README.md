@@ -41,7 +41,6 @@
 	Output[ASCII]:				D
 	```
 
-
 ### The flag:
 `ThisIsTheFlagDEAD`
 
