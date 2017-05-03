@@ -9,20 +9,15 @@
 ### The Solution:
 
 You can use _extended euclidean algorithm_ to calculate _d_, or just use _wolframe-alpha_:
-
-
 	
 `modular inverse of 3 mod 2340002494000660`
-	
 
-	the answer is "1560001662667107"
-
+the answer is "1560001662667107"
 
 	
 `7^1560001662667107 mod 2340002591000713`
 	
-
-	the answer is "581051923957344"
+the answer is "581051923957344"
 
 ### The flag:
 `581051923957344`
