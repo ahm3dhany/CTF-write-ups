@@ -11,14 +11,14 @@
 You can use _extended euclidean algorithm_ to calculate _d_, or just use _wolframe-alpha_:
 
 
-	```wolframe-alpha
+	```
 	modular inverse of 3 mod 2340002494000660
 	```
 
 	the answer is "1560001662667107"
 
 
-	```wolframe-alpha
+	```
 	7^1560001662667107 mod 2340002591000713
 	```
 
