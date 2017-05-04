@@ -9,6 +9,7 @@
 ### The Solution:
 
 0xFF, 0xD8 	=>	Start Of Image
+
 0xFF, 0xD9 	=>	End Of Image
 
 
