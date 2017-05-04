@@ -11,6 +11,7 @@
 1. Check the type of the hash using **hash-identifier** or **hashid**:
 
   ```shell
+	$ hashid bf078b4812ac9e58b486b8f75ba968ba4f18b502
 	Analyzing 'bf078b4812ac9e58b486b8f75ba968ba4f18b502'
 	[+] SHA-1 
   ```
@@ -21,7 +22,7 @@
 	#!/bin/bash
 
 	: '
-	This script is to calc sha-1 hashes for "queenrulez0000~queenrulez9999"
+	This script is to calculate sha-1 hashes for "queenrulez0000~queenrulez9999"
 	'
 	desiredHash="3ede8b7d2e4c4fc26529ba543a6c4414793dc502"
 

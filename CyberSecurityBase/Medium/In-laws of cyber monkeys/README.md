@@ -13,7 +13,9 @@
    choose "TRY ALL COEFFICIENTS (BRUTEFORCE DECRYPTION ATTACK)"
    click "DECRYPT"
 3. One of the results is "SIMPLECIPHERANDTHEFLAGISHIDDENFLAG"
+   
    Convert it to "simple cipher and the flag is hiddenflag" to be inlined with:
+
 		 "dzluin hzuwna bok gwn qibt zd wzkknoqibt"
 
 ### The flag:
