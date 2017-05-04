@@ -8,7 +8,7 @@
 
 ### The Solution:
 
-1. Basic inpection: 
+1. Basic inspection: 
 
   ```shell
 	$ wget http://sec-mooc-1.cs.helsinki.fi/password_3/ac964116-534f-488c-8cbe-3c4326d5b6d1/password_3
