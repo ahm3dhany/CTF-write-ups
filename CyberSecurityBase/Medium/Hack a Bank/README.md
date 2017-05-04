@@ -12,7 +12,7 @@
 2.	Include the site in a new context with form-based authentication with your credentials.
 3.	Spider the website with the created context.
 4.	Right Click on **"POST:convert(amount%5B%5D,authenticity_token,commit,conversion,utf8)"** > then choose **"Resend"**.
-5.	Edit conversion to be **"euros_to_cyber"** and **amount%5B%5D** to be **"0.9"** (without quotes).
+5.	Edit **conversion** to be **"euros_to_cyber"** and **amount%5B%5D** to be **"0.9"** (without quotes).
 6.	Send the request and check if the conversion completed successfully.
 7.	Repeat step 4 > highlight the value of **amount%5B%5D** (i.e. **"0.9"**) > Right click > then choose **"Fuzz"**
 8.	Choose **"payload"** > **"Add"** > Choose the type of **"Strings"**.
