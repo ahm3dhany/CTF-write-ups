@@ -3,10 +3,8 @@
 ### The Problem:
 
   > Real hash functions are harder to crack but can be achieved with brute force of your own or someone else's. 
-
-  Can you crack this hash? 
-
-  ef16ab3c539a766ecbe30eb008032e16
+  > Can you crack this hash? 
+  > ef16ab3c539a766ecbe30eb008032e16
 
 ### The Solution:
 

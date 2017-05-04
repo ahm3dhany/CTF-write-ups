@@ -3,7 +3,7 @@
 ### The Problem:
 
   > One of our cyber monkeys got a cipher text from his in-laws and cannot read it. 
-  Can you crack this ciphertext "dzluin hzuwna bok gwn qibt zd wzkknoqibt"?
+  > Can you crack this ciphertext "dzluin hzuwna bok gwn qibt zd wzkknoqibt"?
 
 ### The Solution:
 
