@@ -10,7 +10,7 @@
 
 Apply Caesar cipher decryption with all possible combinations:
 
-	```c
+  ```c
 	#include <stdio.h>
 	#include <ctype.h>
 	#include <string.h>
@@ -20,10 +20,10 @@ Apply Caesar cipher decryption with all possible combinations:
 
 		//int key = 1;
 		char* cipherText = "PloreFrphevglOnfrSyntN";
-	
+
 		for (int key = 1; key < 26; key++) {
 			for (int i = 0, n = strlen(cipherText); i < n; i++) {
-				
+			
 				if (islower(cipherText[i])) {
 					int before = cipherText[i] - 97;
 					int after = (before + key) % 26;
@@ -44,9 +44,9 @@ Apply Caesar cipher decryption with all possible combinations:
 		return 0;
 
 	}
-	```
+  ```
 
-	```shell
+  ```shell
 	$ gcc caesar.c -o caesar
 	$ ./caesar 
 	QmpsfGsqifwhmPogsTzouO
@@ -61,7 +61,7 @@ Apply Caesar cipher decryption with all possible combinations:
 	ZvyboPbzrofqvYxpbCixdX
 	AwzcpQcaspgrwZyqcDjyeY
 	BxadqRdbtqhsxAzrdEkzfZ
- ====>	CyberSecurityBaseFlagA	<====
+	CyberSecurityBaseFlagA	<====
 	DzcfsTfdvsjuzCbtfGmbhB
 	EadgtUgewtkvaDcugHnciC
 	FbehuVhfxulwbEdvhIodjD
@@ -74,7 +74,7 @@ Apply Caesar cipher decryption with all possible combinations:
 	MilobComebsdiLkcoPvkqK
 	NjmpcDpnfctejMldpQwlrL
 	OknqdEqogdufkNmeqRxmsM
-	```
+  ```
 
 
 
