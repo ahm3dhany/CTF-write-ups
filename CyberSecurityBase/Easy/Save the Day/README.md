@@ -10,7 +10,7 @@
 
 ### The Solution:
 
-	```shell
+  ```shell
 	$ wget http://sec-mooc-1.cs.helsinki.fi/logs/60f3e5fe-bb7b-488c-ac81-15af3f8d41c6/log.gz
 	$ gunzip log.gz
 	$ awk 'END { print NR }' log
@@ -30,7 +30,7 @@
 
 	$ grep -iE 'POST.*password' log
 	13.207.157.242 - - [21/Nov/2016:13:52:55 +0300] "POST /sessions/new?username=admin&password=wronghorsebatterystable HTTP/1.0" 403 4992 "[FILTERED]" "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_3; rv:1.9.2.20) Gecko/2016-04-06 01:17:12 Firefox/3.8"
-	```
+  ```
 
 ### The flag:
 `wronghorsebatterystable`
