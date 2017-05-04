@@ -4,9 +4,9 @@
 
   > Charles's password is queenrulez2000 and the hash value of that password is 'bf078b4812ac9e58b486b8f75ba968ba4f18b502'. 
 
-  After attending Alice's crypto party, Charles changes his password, but keeps the beginning of the password the same and only changes the four numbers in the end to other numbers. 
+  > After attending Alice's crypto party, Charles changes his password, but keeps the beginning of the password the same and only changes the four numbers in the end to other numbers. 
 
-  The hash value of the new password is '3ede8b7d2e4c4fc26529ba543a6c4414793dc502'.
+  > The hash value of the new password is '3ede8b7d2e4c4fc26529ba543a6c4414793dc502'.
 
 ### The Solution:
 
