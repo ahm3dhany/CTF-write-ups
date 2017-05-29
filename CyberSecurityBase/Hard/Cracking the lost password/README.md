@@ -73,7 +73,7 @@
 			
 
 
-Another method: (by @ mikaj)
+Another method: (by @m1kaj)
 
 1. Run the process:	
 
