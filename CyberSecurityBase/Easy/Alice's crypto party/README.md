@@ -8,7 +8,7 @@
 
 ### The Solution:
 
-You can use _extended euclidean algorithm_ to calculate _d_, or just use _wolframe-alpha_:
+Using _Extended Euclidean Algorithm_ to calculate _d_ (or just use _wolframe-alpha_ ` PowerMod[3, -1, 2340002494000660]`):
 	
 `modular inverse of 3 mod 2340002494000660`
 
