@@ -6,9 +6,10 @@
 
 ### The Solution:
 
-- View page source -> `<!-- TODO: remove this line ,  for maintenance purpose use this info (user:support password:x34245323)-->` 
-- Logon with support
-- Change cookie role value to `admin` -> reload
+- View page source:  
+`<!-- TODO: remove this line ,  for maintenance purpose use this info (user:support password:x34245323)-->`  
+- Logon with support  
+- Change cookie role value to `admin` => reload
 
 ### The flag: 
 `hiadminyouhavethepower`
