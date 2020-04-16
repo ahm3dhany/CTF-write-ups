@@ -6,7 +6,7 @@
 
 ### The Solution:
 
-- Using the hint, it seems some lousy filter is replacing/deleting the single quote char `\`` inserted by user. The Challenge would be escaping the single quotes written in the original code.  
+- Using the hint, it seems some lousy filter is replacing/deleting the single quote char ``` inserted by user. The Challenge would be escaping the single quotes written in the original code.  
 ```
 $name = preg_replace('/\'/', '', $name);
 $pass = preg_replace('/\'/', '', $pass);
@@ -26,7 +26,7 @@ $query = "SELECT * FROM users where name = '$name' and password = '$pass'"
 `FLAG{Y0u_Ar3_S0_C00L_T0d4y}`
 
 ### Notes:
-- **CWE-89**
+- CWE-89.
 - OWASP top 10 `A1-Injection`.
 
 
