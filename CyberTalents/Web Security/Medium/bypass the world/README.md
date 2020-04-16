@@ -6,7 +6,7 @@
 
 ### The Solution:
 
-- Using the hint, it seems some lousy filter is replacing/deleting the single quote char ``` inserted by user. The Challenge would be escaping the single quotes written in the original code.  
+- Using the hint, it seems some lousy filter is replacing/deleting the single quote char inserted by user. The Challenge would be escaping the single quotes written in the original code.  
 ```
 $name = preg_replace('/\'/', '', $name);
 $pass = preg_replace('/\'/', '', $pass);
