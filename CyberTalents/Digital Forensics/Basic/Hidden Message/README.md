@@ -6,7 +6,7 @@
 
 ### The Solution:
 
-- `strings hidden_message.jpg | grep -E '\w{32}'` 
+- use `exiftool hidden_message.jpg` or `strings hidden_message.jpg | grep -E '\w{32}'` 
 
 
 ### The flag: 
